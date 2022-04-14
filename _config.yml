@@ -1,2 +1,31 @@
-theme: jekyll-theme-midnight
-title: Kingsolomon Ifeanyichukwu
+title: <p align="center"> Kingsolomon Ifeanyichukwu </p>
+  
+
+logo: images/pix.png
+linkedin: aviatorifeanyi
+  
+links: <p align="center">|
+  <a href="https://public.tableau.com/app/profile/kingsolomon.ifeanyichukwu">Tableau</a>  | 
+  <a href="images/pdf/Kingsolomon_resume.pdf">Resume</a> |
+
+  </p>
+
+description:
+  
+  Data analyst, story teller, and a lover of technology. I love to teach and share my knowledge with the data community.
+  If you love to have discussings about data, you got my attention. <br ><br >
+  
+  Tools - Python, SQL, Excel, Power BI, Tableau
+
+    
+minima:
+  social_links:
+    linkedin: aviatorifeanyi
+    twitter: aviatorifeanyi
+    github:  aviatorifeanyi
+    
+
+theme: minima
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
